@@ -2,5 +2,8 @@
     "data": [{
         "id": 1,
         "title": "Hello"
-    }]
+    }],
+    "source": {
+        "fill" : "full"
+    }
 }

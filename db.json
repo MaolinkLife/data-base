@@ -1,6 +1,6 @@
 {
     "api": {
-        users : [
+        "users" : [
             {
                 "login": "test",
                 "password" : "test"

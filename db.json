@@ -1,9 +1,10 @@
 {
-    "data": [{
-        "id": 1,
-        "title": "Hello"
-    }],
-    "source": {
-        "fill" : "full"
+    "api": {
+        users : [
+            {
+                "login": "test",
+                "password" : "test"
+            }
+        ]
     }
 }

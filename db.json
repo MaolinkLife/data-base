@@ -1,11 +1,10 @@
 {
-    "api": {
-        "users" : [
-            {
-                "login": "test",
-                "password" : "test"
-            }
-        ],
-        "data" : {}
-    }
+    "users": [{
+        "id": 1,
+        "login": "testUser",
+        "email": "test@test.ru",
+        "generalInformation": {
+            "description": 'description',
+        }
+    }]
 }

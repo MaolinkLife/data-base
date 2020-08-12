@@ -4,7 +4,7 @@
         "login": "testUser",
         "email": "test@test.ru",
         "generalInformation": {
-            "description": 'description',
+            "description": "description",
         }
     }]
 }

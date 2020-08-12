@@ -11,5 +11,11 @@
   "profile": {
     "name": "typicode"
   },
-  "users" : []
+  "users" : [
+    {
+      "id": 1,
+      "login" : "testUser",
+      "email": "test@test.ru"
+    }
+  ]
 }
